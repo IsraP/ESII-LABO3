@@ -1,4 +1,4 @@
 O algoritimo desenvolvido usa exatammente o padrão de Command seguindo a ideia de uma interface que possui as
-funções do algoritimo e que podem ser executadas por qualquer classe que implemente seu padrão, possibilitando
+funções do algoritimo que pode ser executado por qualquer classe que implemente seu padrão, possibilitando
 que um agente seja capaz de executar diversas funçoes diferentes a partir da mesma chamada de função, 
 graças a interface implementada  
